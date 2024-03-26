@@ -1,0 +1,26 @@
+
+4)create a class MyClass with two parameter(name,age)
+also create two methods show1() and show2() also initialize the  variables(name and age)in the constructor.
+create one object to call the show1() and show2()
+
+5)No:1 Fruit Name:Apple, Fruit Color: Red
+  No:1 Fruit Name:Orange, Fruit Color: Orange
+Total number of fruits:2
+
+
+
+
+
+1) create a class with class attribute
+2)create a class and object with instance attributes
+3)create a class and object by passing two parameters(name,age)
+5)No:1 Fruit Name:Apple, Fruit Color: Red
+  No:1 Fruit Name:Orange, Fruit Color: Orange
+Total number of fruits:2
+6)WAP to perform all basic calculation operation
+7)create two class calculation1 and calculation2
+ to perform the operations -(add,sub,mul,div)
+->from class calculation1 print add and sub from cal1()
+ by taking input from user and
+->from class calculation2 print mul and div
+ by passing the arguments
